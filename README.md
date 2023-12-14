@@ -1,0 +1,2 @@
+# private-registry
+private registry
